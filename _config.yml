@@ -3,15 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 胡伟煌 
-subtitle: 个人博客
-author: 胡伟煌
+title: 網頁前端技術筆記、分享 
+subtitle: yoyowarm is a Web Developer
+navTitle: yoyowarm 技術筆記
+author: yu zu Li
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://www.huweihuang.com/       # Note: don't forget to modify the CNAME file to your url
+url: http://www.yoyowarm.com/       # Note: don't forget to modify the CNAME file to your url
 root: /
 #permalink: :year/:month/:day/:title/
 permalink: :category/:title/
@@ -21,8 +22,8 @@ permalink_defaults:
 #Custom Setting Start
 
 # Site settings
-SEOTitle: 胡伟煌 | Blog
-email: e-mail_address
+SEOTitle: yoyowarm blog
+email: po8867@gmail.com
 description: ""
 keyword: ""
 header-img: /img/header_img/home.jpg
@@ -36,7 +37,7 @@ signature-img: img/signature/BeanTechSign-white.png
 # RSS: false
 # weibo_username:     Demonbaneen
 # zhihu_username:     Demonbane
-github_username:    huweihuang
+github_username:    yoyowarm
 # twitter_username:   Demonbane_x
 # facebook_username:  xxx
 # linkedin_username:  xxx
@@ -84,23 +85,6 @@ show_count: true
 ## Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
 featured-condition-size: 0              # A tag will be featured if the size of it is more than this condition value
-
-
-## Friends
-friends: [
-    {
-        title: "CSDN Blog 胡伟煌",
-        href: "http://blog.csdn.net/huwh_"
-    },
-    {
-        title: "DockOne 胡伟煌",
-        href: "http://dockone.io/people/胡伟煌"
-    },
-    {
-        title: "阿里云栖社区 胡伟煌",
-        href: "https://yq.aliyun.com/u/huweihuang"
-    }
-]
 
 
 #Custom Setting End
@@ -205,7 +189,7 @@ data-fixed: true
 
 # Reward
 reward: false
-reward_comment: 赞赏一下
+reward_comment: ''
 wechatpay: wechatpay_url
 alipay: alipay_url
 
@@ -231,6 +215,6 @@ sitemap:
 # branch: master
 deploy:
   type: git
-  repository: https://github.com/huweihuang/hexo-theme-huweihuang
+  repository: https://github.com/yoyowarm/blog
   branch: gh-pages
   message: Update CNAME
