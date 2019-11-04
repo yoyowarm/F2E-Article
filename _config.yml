@@ -215,6 +215,6 @@ sitemap:
 # branch: master
 deploy:
   type: git
-  repository: https://github.com/yoyowarm/F2E-Article
+  repository: https://github.com/yoyowarm/F2E-Article/
   branch: gh-pages
   message: Update CNAME
