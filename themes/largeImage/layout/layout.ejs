@@ -6,7 +6,8 @@
 
 <!-- hack iOS CSS :active style -->
 <body ontouchstart="">
-     <%- partial('script/disqus') %>
+    <%- partial('_partial/script/disqus',{cache: true}) %>
+
 	<%- partial('_partial/header',{cache: true}) %>
 	
     <%- partial('_partial/nav',{cache: true}) %>

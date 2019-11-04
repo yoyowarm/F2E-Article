@@ -50,10 +50,12 @@ comment:
   disqus: yoyowarm
 
 # Disqus settings
-disqus_username: yuzuli
+duoshuo_username: yoyowarm
+disqus: 
+  enable: true
+  shortname: yoyowarm
 
 # Duoshuo settings
-# duoshuo_username: kaijun
 # Share component is depend on Comment so we can NOT use share only.
 # duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
