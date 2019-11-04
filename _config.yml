@@ -13,7 +13,7 @@ timezone:
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://www.yoyowarm.com/F2E-Article/       # Note: don't forget to modify the CNAME file to your url
-root: /
+root: /F2E-Article/
 #permalink: :year/:month/:day/:title/
 permalink: :category/:title/
 permalink_defaults:
@@ -37,7 +37,7 @@ signature-img: img/signature/BeanTechSign-white.png
 # RSS: false
 # weibo_username:     Demonbaneen
 # zhihu_username:     Demonbane
-github_username:    yoyowarm
+github_username: yoyowarm
 # twitter_username:   Demonbane_x
 # facebook_username:  xxx
 # linkedin_username:  xxx
