@@ -17,7 +17,7 @@ root: /F2E-Article/
 #permalink: :year/:month/:day/:title/
 permalink: :category/:title/
 permalink_defaults:
-  lang: en
+  lang: zh-TW
 
 #Custom Setting Start
 
@@ -45,14 +45,17 @@ github_username: yoyowarm
 # Build settings
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
+#Comment
+comment:
+  disqus: yoyowarm
 
 # Disqus settings
-#disqus_username: your-disqus-ID
+disqus_username: yuzuli
 
 # Duoshuo settings
 # duoshuo_username: kaijun
 # Share component is depend on Comment so we can NOT use share only.
-#duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+# duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
 # Analytics settings
@@ -130,6 +133,12 @@ category_map:
 tag_map:
 home_posts_tag: true # show posts tags
 
+#menus
+menu:
+  目錄: /archives/
+  分類: /categories/
+  標籤: /tags/
+  關於我: /about/
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
