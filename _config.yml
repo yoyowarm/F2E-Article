@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://www.yoyowarm.com     # Note: don't forget to modify the CNAME file to your url
+url: http://www.yoyowarm.com/F2E-Article  # Note: don't forget to modify the CNAME file to your url
 root: /F2E-Article/
 #permalink: :year/:month/:day/:title/
 permalink: :category/:title/
@@ -26,11 +26,11 @@ SEOTitle: yoyowarm blog
 email: po8867@gmail.com
 description: ""
 keyword: ""
-header-img: /F2E-Article/img/header_img/home.jpg
-article-img: /F2E-Article/img/article_header/article_bg.jpg
-404-img: /F2E-Article/img/header_img/404.png
+header-img: /img/header_img/home.jpg
+article-img: /img/article_header/article_bg.jpg
+404-img: /img/header_img/404.png
 signature: false #show signature
-signature-img: /F2E-Article/img/signature/BeanTechSign-white.png 
+signature-img: /img/signature/BeanTechSign-white.png 
 
 
 # SNS settings
@@ -66,7 +66,7 @@ ga_domain: yoursite
 # Sidebar settings
 sidebar: true                       # whether or not using Sidebar.
 sidebar-about-description: "Stay hungry,Stay foolish"
-sidebar-avatar: /F2E-Article/img/avatar/ironman.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar/ironman.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 widgets:
 - featured-tags
 - short-about
@@ -77,7 +77,7 @@ widgets:
 
 # widget behavior
 ## Archive
-archives-img: /F2E-Article/img/header_img/archives-widget.jpg
+archives-img: /img/header_img/archives-widget.jpg
 archive_type: 'monthly'
 show_count: true
 
