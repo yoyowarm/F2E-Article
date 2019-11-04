@@ -26,11 +26,11 @@ SEOTitle: yoyowarm blog
 email: po8867@gmail.com
 description: ""
 keyword: ""
-header-img: /img/header_img/home.jpg
-article-img: /img/article_header/article_bg.jpg
-404-img: /img/header_img/404.png
+header-img: /F2E-Article//img/header_img/home.jpg
+article-img: /F2E-Article//img/article_header/article_bg.jpg
+404-img: /F2E-Article//img/header_img/404.png
 signature: false #show signature
-signature-img: img/signature/BeanTechSign-white.png 
+signature-img: /F2E-Article/img/signature/BeanTechSign-white.png 
 
 
 # SNS settings
