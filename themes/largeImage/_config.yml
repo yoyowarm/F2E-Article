@@ -5,8 +5,8 @@
 # https://github.com/chriskempson/tomorrow-theme
 # night yilia - https://github.com/litten/hexo-theme-yilia
 highlight_theme: night eighties
-disqus_shortname: yoyowarm
+disqus_shortname: https-www-yoyowarm-com-f2e-article
 disqus:
   enable: true
-  shortname: yoyowarm
+  shortname: https-www-yoyowarm-com-f2e-article
   count: true
